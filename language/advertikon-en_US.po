@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Advertikon Extended stock\n"
+"POT-Creation-Date: 2016-12-07 20:32+0200\n"
+"PO-Revision-Date: 2016-12-07 20:32+0200\n"
+"Last-Translator: \n"
+"Language-Team: Advertikon <translate@advertikon.com.ua>\n"
+"Language: en_150\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: adk_extended_stock.php:67
+#, php-format
+msgid "Plugin \"%s\" needs plugin \"WooCommerce\" to be installed"
+msgstr "Plugin \"%s\" needs plugin \"WooCommerce\" to be installed"
+
+#: adk_extended_stock.php:85
+msgid "Minimun products quantity in an order"
+msgstr "Minimun products quantity in an order"
+
+#: adk_extended_stock.php:98
+msgid "Maximum products quantity in an order"
+msgstr "Maximum products quantity in an order"
+
+#: adk_extended_stock.php:99
+msgid "Unlimited"
+msgstr "Unlimited"
+
+#: adk_extended_stock.php:100
+msgid "Leave blank for unlimited quantity"
+msgstr "Leave blank for unlimited quantity"
+
+#: adk_extended_stock.php:112
+msgid "Apply category level settings"
+msgstr "Apply category level settings"
+
+#: adk_extended_stock.php:283
+#, php-format
+msgid "Minimum quantity for this product is: %u"
+msgstr "Minimum quantity for this product is: %u"
+
+#: adk_extended_stock.php:287
+#, php-format
+msgid "Maximum quantity for this product is: %u"
+msgstr "Maximum quantity for this product is: %u"
+
+#: adk_extended_stock.php:325
+#, php-format
+msgid "Quantity of \"%s\" cannot be less than %u pcs"
+msgstr "Quantity of \"%s\" cannot be less than %u pcs"
+
+#: adk_extended_stock.php:331
+#, php-format
+msgid "Quantity of \"%s\" cannot be more than %u pcs"
+msgstr "Quantity of \"%s\" cannot be more than %u pcs"
